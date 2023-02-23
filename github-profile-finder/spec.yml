@@ -26,3 +26,4 @@ codedamn:
     show-community-banner: true
     playground-layout: terminal-editor-browser
     playground-image: html
+    guided: true
