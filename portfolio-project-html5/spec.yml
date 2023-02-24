@@ -3,7 +3,7 @@ tags: ["HTML/CSS", "JavaScript"]
 starter-files: https://github.com/codedamn-projects/astral-portfolio-project
 type: frontend
 level: easy
-cover-image: https://raw.githubusercontent.com/codedamn-projects/astral-portfolio-project/master/assets/desktop-design-non-fs.jpg
+cover-image: https://raw.githubusercontent.com/codedamn-projects/astral-portfolio-project/master/designs/desktop-design-non-fs.jpg
 short-description: A simple and minimal portfolio page for you built in HTML5 + CSS3. You will learn how to create a portfolio page with your social media icons and links.
 long-description: |
   Your challenge is to build out this landing page and get it looking as close to the design as possible.
