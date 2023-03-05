@@ -1,8 +1,8 @@
-# Welcome To Hacktoberfest - Contribute a project and win prizes
+# Contribute a project on codedamn
 
-This initiative is part of [Codedamn's Hacktoberfest](https://codedamn.com/hacktoberfest)
+Projects is an open source initiative on codedamn. This repository contains a list of projects codedamn offers on the main website - https://codedamn.com/projects
 
-During Hacktoberfest, submit an interactive project to this repository and get a change to win a Codedamn's T-shirt.
+`master` branch of this repository is configured with our production page (https://codedamn.com/projects). Whenever you contribute a project and it gets merged on master, we'll make it live on the website for thousands of developers to practice.
 
 ## How to participate? (read carefully)
 
@@ -157,22 +157,4 @@ We have covered all the instructions that you need to be aware of as a creator t
 
 ### 4. Creating a pull request
 
-Now that you have created and work on the guided-project, please create a Pull Request to the **master** branch of the Repository.
-
-## What are my prizes?
-
-If you're based in India:
-
--   Codedamn Merch Kit (Exclusive codedamn t-shirt + coding stickers)
--   Get a chance to share your story on [codedamn YouTube channel](https://youtube.com/codedamn)
-
-If you're based outside India:
-
--   Codedamn Pro account for free for 3 months
--   Get a chance to share your story on [codedamn YouTube channel](https://youtube.com/codedamn)
-
-## Reviewing of Project
-
-Once you have created a pull request, the project will be reviewed by the codedamn team. If there are any details that need to be fixed, we'll let you know in the Pull Request messages itself. Make sure to keep an eye on them.
-
-Once your Pull Request gets merged we'll send you a form to fill out the necessary details to ship your swags.
+Now that you have created and work on the guided-project, please create a Pull Request to the **master** branch of the repository.
