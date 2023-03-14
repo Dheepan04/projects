@@ -1,12 +1,12 @@
 name: Flappy Bird Game
-tags: ['HTML/CSS', 'JavaScript']
+tags: ["HTML/CSS", "JavaScript"]
 starter-files: https://github.com/varunKT001/flappy-bird-starter
 type: frontend
 level: easy
 cover-image: https://raw.githubusercontent.com/varunKT001/flappy-bird-starter/banner/banner.png
 short-description: A basic flappy bird game. This will test your HTML, CSS, and JavaScript skills.
 long-description: |
-  Your challenge is to build out a flappy bird game with all the basic features.
+  Your challenge is to build out the flappy bird game with all the basic features.
 
   This project focuses mainly on JavaScript. Some CSS is also needed, but it is fundamental, and any beginner can do it without issues.
 

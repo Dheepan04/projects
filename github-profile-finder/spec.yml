@@ -6,7 +6,7 @@ level: medium
 cover-image: https://raw.githubusercontent.com/sagar-7227/GitHub-Profile-Finder-Template/main/landing.png
 short-description: Build a custom github profile finder using github username. It shows users details with his/her repository.
 long-description: |
-    Your challenge is to build out a Github Profile Finder App and get it looking as close to the design as possible.
+    Your challenge is to build out the Github Profile Finder App and get it looking as close to the design as possible.
 
     This project focuses on your React and understanding of Redux. So if you've got something you'd like to practice, feel free to give it a go.
 

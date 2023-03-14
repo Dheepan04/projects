@@ -6,7 +6,7 @@ level: easy
 cover-image: https://raw.githubusercontent.com/codedamn-projects/quiz-app/master/assets/desktop-design.jpg
 short-description: An interactive, timed JavaScript quiz that stores a high score leaderboard in local storage.
 long-description: |
-  Your challenge is to build out a Quiz App and get it look as close to the design as possible.
+  Your challenge is to build out the Quiz App and get it look as close to the design as possible.
 
   This project focuses HTML, CSS & JS. Javascript is really important in this since it allows the app to be functional by validating the correct answer
 

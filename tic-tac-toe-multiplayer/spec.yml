@@ -1,12 +1,12 @@
 name: Tic Tac Toe (Multiplayer Version)
-tags: ['React', 'Websockets']
+tags: ["React", "Websockets"]
 starter-files: https://github.com/codedamn-projects/Tic-Tac-Toe-Multiplayer
 type: frontend
 level: hard
 cover-image: https://raw.githubusercontent.com/codedamn-projects/Tic-Tac-Toe-Multiplayer/master/designs/cover-image.png
 short-description: Creating the Tic Tac Toe game using web sockets for 2 online players
 long-description: |
-    Your challenge is to build out a Quiz App and get it to look as close to the design as possible.
+    Your challenge is to build out the project and get it to look as close to the design as possible.
 
     This project focuses on your React and CSS skills, but you can use any tools you like to help you complete the project. So if you've got something you'd like to practice, feel free to give it a go.
 
