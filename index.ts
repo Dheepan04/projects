@@ -21,9 +21,6 @@ type UpdatePlatformProjectsProjectsMapType = Record<
 			codedamn: {
 				'helper-learning-path': string
 				'show-community-banner': boolean
-				'playground-layout': string
-				'playground-image': string
-				guided?: boolean
 			}
 		}
 		steps?: {
@@ -56,9 +53,6 @@ const updatePlatformProjectsProjectsMapSchema = Joi.object<UpdatePlatformProject
 							.keys({
 								'helper-learning-path': Joi.string().required(),
 								'show-community-banner': Joi.boolean().required(),
-								'playground-layout': Joi.string().required(),
-								'playground-image': Joi.string().required(),
-								guided: Joi.boolean().optional()
 							})
 							.required()
 					})

@@ -21,6 +21,3 @@ long-description: |
 codedamn:
   helper-learning-path: backend
   show-community-banner: true
-  playground-layout: terminal-editor
-  playground-image: html
-  guided: true

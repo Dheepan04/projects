@@ -63,9 +63,6 @@ long-description: |
 codedamn:
     helper-learning-path: frontend
     show-community-banner: true
-    playground-layout: terminal-editor-browser
-    playground-image: html
-    guided: true
 ```
 
 Each field is explained in detail below.
@@ -101,18 +98,6 @@ Each field is explained in detail below.
     You can find all the details about the learning path [here](https://codedamn.com/learning-paths/)
 
 -   `show-community-banner` : This field is used to show the community banner in the project landing page. This is used to encourage the user to share their project with the community and get help from the community on our [forum](https://codedamn.com/forum/) or our [discord server](https://discord.gg/codedamn)
-
--   `playground-layout` : This field is used to determine the layout of the playground. The possible values are `terminal-editor-browser`,`terminal-browser`, `terminal-editor`, `terminal`,
-
-    ![playground layouts](https://raw.githubusercontent.com/codedamn/projects/hacktoberfest-readme/schemas/assets/playground-layout.png)
-
--   `playground-image` : This field is used to determine the docker image that is required to the boot the playground in. The possible values are
-
-    -   `html` - HTML / CSS / JavaScript / React / Next.js / Vue
-
-    -   `ethereum-v1` - Ethereum / Solidity / Web3.js / Truffle
-
--   `guided` : This boolean field is used to determine if the project is guided-mode or not. If the project is guided, the project should have steps in the project. Possible values are `true` or `false`
 
 ### 3. Creating the steps for the project
 

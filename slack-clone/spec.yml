@@ -20,10 +20,8 @@ long-description: |
   
   All the best
 
-    
+
 # https://codedamn.com/projects specific section
 codedamn:
     helper-learning-path: frontend
     show-community-banner: true
-    playground-layout: terminal-editor-browser
-    playground-image: html

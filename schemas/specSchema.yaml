@@ -32,12 +32,3 @@ codedamn:
         show-community-banner:
             required: true
             type: boolean
-        playground-layout:
-            required: true
-            type: string
-        playground-image:
-            required: true
-            type: string
-        guided:
-            required: false
-            type: boolean

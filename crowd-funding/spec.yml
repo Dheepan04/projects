@@ -10,5 +10,3 @@ long-description: This is a Crowd Funding Smart Contract project.Crowd Funding -
 codedamn:
   helper-learning-path: web3
   show-community-banner: true
-  playground-layout: terminal-editor
-  playground-image: ethereum-v1

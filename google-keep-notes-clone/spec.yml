@@ -29,6 +29,3 @@ long-description: |
 codedamn:
   helper-learning-path: frontend
   show-community-banner: true
-  playground-layout: terminal-editor-browser
-  playground-image: html
-  guided: true

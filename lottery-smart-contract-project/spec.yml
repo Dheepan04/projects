@@ -10,5 +10,3 @@ long-description: You have to create a lottery smart contract.In this we will ha
 codedamn:
   helper-learning-path: web3
   show-community-banner: true
-  playground-layout: terminal-editor
-  playground-image: ethereum-v1
