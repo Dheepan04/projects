@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "joi": "^17.7.0",
+    "js-yaml": "^4.1.0",
     "typescript": "^4.9.5",
     "yamljs": "^0.3.0"
   },

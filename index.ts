@@ -15,13 +15,8 @@ type UpdatePlatformProjectsProjectsMapType = Record<
 			'starter-files': string
 			type: string
 			level: string
-			'cover-image': string
 			'short-description': string
 			'long-description': string
-			codedamn: {
-				'helper-learning-path': string
-				'show-community-banner': boolean
-			}
 		}
 		steps?: {
 			stepId: string
@@ -46,15 +41,8 @@ const updatePlatformProjectsProjectsMapSchema = Joi.object<UpdatePlatformProject
 						'starter-files': Joi.string().required(),
 						type: Joi.string().required(),
 						level: Joi.string().required(),
-						'cover-image': Joi.string().required(),
 						'short-description': Joi.string().required(),
 						'long-description': Joi.string().required(),
-						codedamn: Joi.object()
-							.keys({
-								'helper-learning-path': Joi.string().required(),
-								'show-community-banner': Joi.boolean().required(),
-							})
-							.required()
 					})
 					.required(),
 				steps: Joi.array()
