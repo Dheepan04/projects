@@ -8,7 +8,4 @@ module.exports = {
 	bracketSpacing: true,
 	bracketSameLine: false,
 	singleQuote: true,
-	importOrder: ['<THIRD_PARTY_MODULES>', 'model', 'root', '^@/(.*)$', '^~/(.*)$', '^[./]'],
-	importOrderSortSpecifiers: true,
-	importOrderSeparation: true
 }

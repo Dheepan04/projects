@@ -8,16 +8,18 @@ jobs:
         steps:
             - uses: actions/checkout@v3
             - uses: actions/setup-node@v3
+              with:
+                  node-version: 18
 
             - name: Install Packages
               run: yarn install --frozen-lockfile
 
             - name: Build Validation File
-              run: yarn tsc
+              run: yarn build
 
             - name: Run Validation
               run: |
-                  node build/index.js
+                  yarn start
                   echo $?
                   echo "EXIT CODE ABOVE"
 
@@ -42,8 +44,8 @@ jobs:
                               body: `#### 🟢  Validation succeeded`
                           })
                         } else {
-                          console.log(`Validation  succeeded`)
+                          console.log(`Validation succeeded`)
                         }
                       } else {
-                        throw new Error("Joi validation failed!")
+                        throw new Error("Zod validation failed!")
                       }
