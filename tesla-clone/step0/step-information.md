@@ -4,7 +4,9 @@ Welcome to the first step of creating a Tesla homepage clone! Your task in this 
 
 You can view the final appearance of the landing page at the following link:
 
-![Tesla landing page](https://raw.githubusercontent.com/codedamn-projects/tesla-clone/master/designs/preview%20image%20%5BDESKTOP%5D.png)
+
+![Tesla landing page](https://raw.githubusercontent.com/codedamn-projects/tesla-clone/master/designs/Landing%20Page%20%5BDesktop%5D.png)
+
 
 As you work on this page, pay careful attention to these specific elements:
 

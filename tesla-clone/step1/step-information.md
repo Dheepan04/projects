@@ -10,7 +10,9 @@ Here's what you need to focus on:
 
 Here's how it looks:
 
-![Tesla Menu](https://raw.githubusercontent.com/codedamn-projects/tesla-clone/master/designs/Mobile%20Menu%20%5BMOBILE%5D.png)
+
+![Tesla Menu](https://raw.githubusercontent.com/codedamn-projects/tesla-clone/master/designs/Landing%20Page%20%5BMobile%5D.png)
+
 
 Remember, the mobile menu is an essential part of the user experience, so it's vital to make it user-friendly and aesthetically pleasing. Take your time to test the responsiveness on different devices and adjust as needed.
 
