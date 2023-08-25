@@ -7,35 +7,33 @@ tags:
 starter-files: https://github.com/ritik3131/next-12-playground-codedamn
 type: fullstack
 level: medium
-short-description: >-
-  Create a social networking site that allow users to search and decide places
-  for meetups based on interests
-long-description: >
-  Your challenge is to build out the Meetup app and get it to look as close to
-  the design as possible.
+short-description: Create a social networking site that allow users to search
+  and decide places for meetups based on interests
+long-description:
+  text: >
+    Your challenge is to build out the Meetup app and get it to look as close to
+    the design as possible.
 
 
-  This project focuses on your  Next.js and backend skills, but you can use any
-  tools you like to help you complete the project. So if you've got something
-  you'd like to practice, feel free to give it a go.
+    This project focuses on your  Next.js and backend skills, but you can use any tools you like to help you complete the project. So if you've got something you'd like to practice, feel free to give it a go.
 
 
-  This project should have the listed functionalities
+    This project should have the listed functionalities
 
 
-  - User can login with google and Facebook oauth
+    - User can login with google and Facebook oauth
 
 
-  - Full authorization to api and other nextjs pages should be added.
+    - Full authorization to api and other nextjs pages should be added.
 
 
-  - User can add meetups places ,can delete,update ..etc.
+    - User can add meetups places ,can delete,update ..etc.
 
 
-  - Add database(Mongodb to the app) with proper schema's.
+    - Add database(Mongodb to the app) with proper schema's.
 
 
-  - For backend api,severSide rending and static rending should be added
+    - For backend api,severSide rending and static rending should be added
 
 
-  Cover all the concept of nextjs such as pre-rending(server side and static).
+    Cover all the concept of nextjs such as pre-rending(server side and static).

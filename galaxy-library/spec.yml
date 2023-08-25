@@ -8,20 +8,19 @@ tags:
 starter-files: https://github.com/codedamn-projects/galaxy-library
 type: frontend
 level: medium
-short-description: >-
-  A Small Library which contains the information of galactic Species , Vehicles
-  , Ships which appeared
-long-description: >
-  In this project, you're supposed to build a Galaxy Library. This includes the
-  following features:
+short-description: A Small Library which contains the information of galactic
+  Species , Vehicles , Ships which appeared
+long-description:
+  text: >
+    In this project, you're supposed to build a Galaxy Library. This includes
+    the following features:
 
 
-  - Home Page
+    - Home Page
 
-  - Custom Routes for different Categories
+    - Custom Routes for different Categories
 
-  - Data Fetching
+    - Data Fetching
 
 
-  A detailed breakdown is available in the README.md file once you start the
-  project. You already know the drill. All the best!
+    A detailed breakdown is available in the README.md file once you start the project. You already know the drill. All the best!

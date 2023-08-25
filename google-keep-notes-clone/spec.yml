@@ -8,36 +8,34 @@ starter-files: https://github.com/MANUSRAO/google-keeps-note-codedamn-starter-fi
 type: frontend
 level: easy
 short-description: Build a Google Keep Notes Clone using React.
-long-description: >
-  Your challenge is to build a clone of Google Keep Notes and get it looking as
-  close to the design as possible.
+long-description:
+  text: >
+    Your challenge is to build a clone of Google Keep Notes and get it looking
+    as close to the design as possible.
 
 
-  This project focuses mostly on Javascript and React. We will make use of basic
-  React Hooks and Conditional Rendering. 
+    This project focuses mostly on Javascript and React. We will make use of basic React Hooks and Conditional Rendering. 
 
 
-  You can use any tools you like to help you complete this project. So if you've
-  got something you'd like to practice, feel free to give it a go.
+    You can use any tools you like to help you complete this project. So if you've got something you'd like to practice, feel free to give it a go.
 
 
-  Your users should be able to:
+    Your users should be able to:
 
 
-  - Add their Notes in the website.
+    - Add their Notes in the website.
 
 
-  - See appropriate animation and styling while adding notes.
+    - See appropriate animation and styling while adding notes.
 
 
-  - Delete their notes in the website.
+    - Delete their notes in the website.
 
 
-  - Download the starter code and go through the README.md file.
+    - Download the starter code and go through the README.md file.
 
 
-  The `README.md` file will provide further details about the project. 
+    The `README.md` file will provide further details about the project. 
 
 
-  Don't forget to share your submissions with the community to get feedback. All
-  the best.
+    Don't forget to share your submissions with the community to get feedback. All the best.

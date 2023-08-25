@@ -1,4 +1,2 @@
-name: "Fetching facts from API"
-stepId: step3
-stepBreakDown:
-  - text: "Fetch fact from API on each load and on each click of button"
+challenges:
+  - text: Fetch fact from API on each load and on each click of button

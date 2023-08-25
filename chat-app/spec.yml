@@ -6,24 +6,22 @@ starter-files: https://github.com/codedamn-projects/chat-app
 type: fullstack
 level: medium
 short-description: Build a Real-Time Chat application using web sockets
-long-description: >
-  Your challenge is to build out the Chat App and get it to look as close to the
-  design as possible.
+long-description:
+  text: >
+    Your challenge is to build out the Chat App and get it to look as close to
+    the design as possible.
 
 
-  This project focuses on your React skills and understanding of web sockets,
-  but you can use any tools you like to complete the project.
+    This project focuses on your React skills and understanding of web sockets, but you can use any tools you like to complete the project.
 
 
-  This project should have the following functionalities
+    This project should have the following functionalities
 
 
-  - Ability to create chat rooms with other users
+    - Ability to create chat rooms with other users
 
 
-  - Ability to see replied message in real time using Web Sockets
+    - Ability to see replied message in real time using Web Sockets
 
 
-  You can go through the `Readme.md` to see more details regarding the project
-  and the assets folder to see the preview images of the project for desktop and
-  mobile viewports.
+    You can go through the `Readme.md` to see more details regarding the project and the assets folder to see the preview images of the project for desktop and mobile viewports.

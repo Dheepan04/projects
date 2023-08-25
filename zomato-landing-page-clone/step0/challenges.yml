@@ -1,6 +1,4 @@
-name: "Creating Elements and tags"
-stepId: step0
-stepBreakDown:
-  - text: "Add the Header"
-  - text: "Add the Footer"
-  - text: "Add the Nav Bar in Header"
+challenges:
+  - text: Add the Header
+  - text: Add the Footer
+  - text: Add the Nav Bar in Header

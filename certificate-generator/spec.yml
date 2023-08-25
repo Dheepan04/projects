@@ -7,24 +7,21 @@ starter-files: https://github.com/codedamn-projects/Certificate-Generator
 type: frontend
 level: medium
 short-description: Create certificates from a template
-long-description: >
-  Your challenge is to build out the Certificate Generator App and get it to
-  look as close to the design as possible.
+long-description:
+  text: >
+    Your challenge is to build out the Certificate Generator App and get it to
+    look as close to the design as possible.
 
 
-  This project focuses on your React and CSS skills, but you can use any tools
-  you like to help you complete the project. So if you've got something you'd
-  like to practice, feel free to give it a go.
+    This project focuses on your React and CSS skills, but you can use any tools you like to help you complete the project. So if you've got something you'd like to practice, feel free to give it a go.
 
 
-  In this project, you should be able to create 
+    In this project, you should be able to create 
 
 
-  - Generate a certificate based on the given name
+    - Generate a certificate based on the given name
 
-  - download the certificate in pdf format
+    - download the certificate in pdf format
 
 
-  You can go through the `Readme.md` to see more details regarding the project
-  and the assets folder to see the preview images of the project for desktop and
-  mobile viewports.
+    You can go through the `Readme.md` to see more details regarding the project and the assets folder to see the preview images of the project for desktop and mobile viewports.

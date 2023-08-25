@@ -6,35 +6,32 @@ tags:
 starter-files: https://github.com/varunKT001/flappy-bird-starter
 type: frontend
 level: easy
-short-description: >-
-  A basic flappy bird game. This will test your HTML, CSS, and JavaScript
-  skills.
-long-description: >
-  Your challenge is to build out the flappy bird game with all the basic
-  features.
+short-description: A basic flappy bird game. This will test your HTML, CSS, and JavaScript skills.
+long-description:
+  text: >
+    Your challenge is to build out the flappy bird game with all the basic
+    features.
 
 
-  This project focuses mainly on JavaScript. Some CSS is also needed, but it is
-  fundamental, and any beginner can do it without issues.
+    This project focuses mainly on JavaScript. Some CSS is also needed, but it is fundamental, and any beginner can do it without issues.
 
 
-  The game must include the following features:
+    The game must include the following features:
 
 
-  - Spawn randomly positioned obstacles that the players will have to dodge.
+    - Spawn randomly positioned obstacles that the players will have to dodge.
 
 
-  - Enable the players to fly the bird using some keypresses.
+    - Enable the players to fly the bird using some keypresses.
 
 
-  - Watch for collisions between the bird and the obstacles.
+    - Watch for collisions between the bird and the obstacles.
 
 
-  - Keep track of the player's score based on how many obstacles he was able to
-  avoid.
+    - Keep track of the player's score based on how many obstacles he was able to avoid.
 
 
-  The `README.md` file will provide further details about the project.
+    The `README.md` file will provide further details about the project.
 
 
-  All the best.
+    All the best.

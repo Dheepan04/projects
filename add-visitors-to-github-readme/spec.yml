@@ -9,26 +9,26 @@ tags:
 starter-files: https://github.com/codedamn-projects/add-visitors-to-github-readme
 type: backend
 level: hard
-short-description: >-
-  Add visitors to your github repository's README.md file when a visitor creates
-  an issue.
-long-description: >
-  In this project, you're supposed to build a fully functional repository which
-  will add all the visitor to it's README.md file.
+short-description: Add visitors to your github repository's README.md file when
+  a visitor creates an issue.
+long-description:
+  text: >
+    In this project, you're supposed to build a fully functional repository
+    which will add all the visitor to it's README.md file.
 
 
-  This includes the following features:
+    This includes the following features:
 
 
-  - Triggering repository issue
+    - Triggering repository issue
 
-  - Catching that issue using Github Actions
+    - Catching that issue using Github Actions
 
-  - Adding new visitor to data.json file
+    - Adding new visitor to data.json file
 
-  - Rendering new README.md file
+    - Rendering new README.md file
 
-  - Uploading new push
+    - Uploading new push
 
 
-  All the best!
+    All the best!

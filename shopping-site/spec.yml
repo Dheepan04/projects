@@ -7,34 +7,31 @@ starter-files: https://github.com/Saurav-Singh-Rauthan/shopping-site-starter
 type: frontend
 level: easy
 short-description: A simple landing page for a shopping website (NIKE).
-long-description: >
-  Your challenge is to build out the landing page for a shopping website (Nike)
-  and get it look as close to the design as possible.
+long-description:
+  text: >
+    Your challenge is to build out the landing page for a shopping website
+    (Nike) and get it look as close to the design as possible.
 
 
-  This project focuses HTML, CSS & JS. Javascript is used for showing and hiding
-  the navbar on mobile view.
+    This project focuses HTML, CSS & JS. Javascript is used for showing and hiding the navbar on mobile view.
 
 
-  You can use any tools you like to help you complete the project. So if you've
-  got something you'd like to practice, feel free to give it a go.
+    You can use any tools you like to help you complete the project. So if you've got something you'd like to practice, feel free to give it a go.
 
 
-  This would invovle:
+    This would invovle:
 
 
-  - Creating landing page
+    - Creating landing page
 
 
-  - Creating footer
+    - Creating footer
 
 
-  - Creating Navbaar for desktop and mobile view
+    - Creating Navbaar for desktop and mobile view
 
 
-  - Making website responsive
+    - Making website responsive
 
 
-  You can go through the `Readme.md` to see more details regarding the project
-  and the assets folder to see the preview images of the project for desktop and
-  mobile viewports.
+    You can go through the `Readme.md` to see more details regarding the project and the assets folder to see the preview images of the project for desktop and mobile viewports.

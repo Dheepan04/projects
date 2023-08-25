@@ -6,38 +6,36 @@ tags:
 starter-files: https://github.com/Lakshay-Pruthi/facebook-clone-html-playground-starter
 type: frontend
 level: easy
-short-description: >-
-  A Facebook Sign up page clone project. This will test your HTML, CSS skills.
-  All the designs are available inside the project.
-long-description: >
-  Your challenge is to build out this Sign up page and get it looking as close
-  to the design as possible.
+short-description: A Facebook Sign up page clone project. This will test your
+  HTML, CSS skills. All the designs are available inside the project.
+long-description:
+  text: >
+    Your challenge is to build out this Sign up page and get it looking as close
+    to the design as possible.
 
 
-  This project focuses mostly on HTML and CSS using Tailwind CSS framework. 
+    This project focuses mostly on HTML and CSS using Tailwind CSS framework. 
 
 
-  It will be good to use Tailwind CSS framework to complete this project.
+    It will be good to use Tailwind CSS framework to complete this project.
 
 
-  Your users should be able to:
+    Your users should be able to:
 
 
-  - View the optimal layout for the site depending on their device's screen size
+    - View the optimal layout for the site depending on their device's screen size
 
 
-  - See hover states for all interactive elements on the page
+    - See hover states for all interactive elements on the page
 
 
-  - Download the starter code and go through the README.md file.
+    - Download the starter code and go through the README.md file.
 
 
-  The `README.md` file will provide further details about the project.
+    The `README.md` file will provide further details about the project.
 
 
-  The Product Design is given in the "Product-Design" folder (You can refer to
-  it).
+    The Product Design is given in the "Product-Design" folder (You can refer to it).
 
 
-  Don't forget to share your submissions with the community to get feedback. All
-  the best.
+    Don't forget to share your submissions with the community to get feedback. All the best.

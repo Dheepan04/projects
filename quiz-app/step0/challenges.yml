@@ -1,7 +1,5 @@
-name: "Building Home page"
-stepId: step0
-stepBreakDown:
+challenges:
   - text: "Creating the navbar for the page containing the highscores and time at the either end."
   - text: "Create the main section of the page that will contain the heading, description and the 'Start Quiz' button"
-  - text: "style the navbar with the background color: #218380 and the 'start quiz' button "
-  - text: "add required styles to meet the design shared in the image"
+  - text: "Style the navbar with the background color: #218380 and the 'start quiz' button "
+  - text: "Add required styles to meet the Desktop Design"

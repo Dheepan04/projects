@@ -1,4 +1,2 @@
-name: "Fetching and Storing Data using an API"
-stepId: step4
-stepBreakDown:
-    - text: "Add the source code as provided in instructions"
+challenges:
+  - text: Add the source code as provided in instructions

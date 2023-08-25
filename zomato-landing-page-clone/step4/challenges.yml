@@ -1,6 +1,4 @@
-name: "Adding Styles"
-stepId: step4
-stepBreakDown:
-  - text: "Adding font to heading and description"
-  - text: "Align the content of the page to center"
-  - text: "Set the font size to heading, description and footer text"
+challenges:
+  - text: Adding font to heading and description
+  - text: Align the content of the page to center
+  - text: Set the font size to heading, description and footer text

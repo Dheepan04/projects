@@ -1,6 +1,4 @@
-name: "Boilerplate Code"
-stepId: step1
-stepBreakDown:
+challenges:
   - text: "Make sure that the boilerplate code for the HTML file is syntactically correct."
   - text: "Create a `<div>` element with the ID 'gallery-container'."
   - text: "Create a `style.css` file in the same directory as the `index.html`."

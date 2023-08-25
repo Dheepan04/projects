@@ -1,6 +1,4 @@
-name: 'Main Page'
-stepId: step2
-stepBreakDown:
-    - text: 'Main page contains 3 different sections - Vechicle , Planet , Starship'
-    - text: 'Each section contains 3 cards'
-    - text: 'Each card contains image , name and other details'
+challenges:
+  - text: Main page contains 3 different sections - Vechicle , Planet , Starship
+  - text: Each section contains 3 cards
+  - text: Each card contains image , name and other details

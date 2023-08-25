@@ -1,0 +1,4 @@
+challenges:
+  - text: Create a `<div>` element with the class 'sidebar'.
+  - text: populate the sidebar
+  - text: added styles for class 'nav-switch' and provided transform:translateX(100%)

@@ -5,15 +5,14 @@ tags:
 starter-files: https://github.com/codedamn-projects/erc20Project
 type: web3
 level: medium
-short-description: >-
-  This project will be a perfect test of how to create your own ERC20 Token from
-  scratch.
-long-description: >
-  The task is to create an ERC20 token smart contract.
+short-description: This project will be a perfect test of how to create your own
+  ERC20 Token from scratch.
+long-description:
+  text: >
+    The task is to create an ERC20 token smart contract.
 
-  An ERC20 interface will be given to you and you have to use that interface as
-  blueprint for your smart contract.
+    An ERC20 interface will be given to you and you have to use that interface as blueprint for your smart contract.
 
-  Also remember to create the migration script for it.
+    Also remember to create the migration script for it.
 
-  Don't forget to share your submissions with the community to get feedback.
+    Don't forget to share your submissions with the community to get feedback.

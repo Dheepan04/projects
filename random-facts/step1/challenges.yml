@@ -1,6 +1,4 @@
-name: "Adding buttons"
-stepId: step1
-stepBreakDown:
-  - text: "Add a button named Next Fact Please"
-  - text: "Add your social media profile link"
-  - text: "Apply hover effect to buttons"
+challenges:
+  - text: Add a button named Next Fact Please
+  - text: Add your social media profile link
+  - text: Apply hover effect to buttons

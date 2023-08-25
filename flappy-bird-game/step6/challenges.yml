@@ -1,5 +1,3 @@
-name: 'Generate random obstacles'
-stepId: step6
-stepBreakDown:
-  - text: "Make sure that every 3 seconds, randomly sized pipes are generated"
-  - text: "Ensure that a constant gap is maintained between the two pipes"
+challenges:
+  - text: Make sure that every 3 seconds, randomly sized pipes are generated
+  - text: Ensure that a constant gap is maintained between the two pipes

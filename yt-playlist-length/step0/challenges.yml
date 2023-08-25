@@ -1,5 +1,4 @@
-name: "Getting Started"
-stepId: step0
-stepBreakDown:
-  - text: "Excited to create this project."
-  - text: "Able to see 'Welcome to YouTube Playlist Length Calculator Project' in the browser window."
+challenges:
+  - text: Excited to create this project.
+  - text: Able to see 'Welcome to YouTube Playlist Length Calculator Project' in the
+      browser window.

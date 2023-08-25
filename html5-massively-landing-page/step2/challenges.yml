@@ -1,7 +1,5 @@
-name: "Styling the web page"
-stepId: step2
-stepBreakDown:
-  - text: "Add background image to the hero section"
-  - text: "set the background color for navbar and icons"
-  - text: "style the buttons as in design"
-  - text: "add border for the blog posts"
+challenges:
+  - text: Add background image to the hero section
+  - text: set the background color for navbar and icons
+  - text: style the buttons as in design
+  - text: add border for the blog posts

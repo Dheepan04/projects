@@ -1,5 +1,3 @@
-name: 'Moving the obstacles and positioning the score count'
-stepId: step4
-stepBreakDown:
-  - text: "Ensure that the pipes move from right to left every 3 seconds"
-  - text: "Ensure that the scoreboard is always at the front of the game container"
+challenges:
+  - text: Ensure that the pipes move from right to left every 3 seconds
+  - text: Ensure that the scoreboard is always at the front of the game container

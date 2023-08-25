@@ -6,21 +6,19 @@ starter-files: https://github.com/codedamn-projects/ZomatoClone
 type: frontend
 level: easy
 short-description: A simple and minimal landing page of Zomato.
-long-description: >
-  Your challenge is to build out this Clone and get it looking as close to the
-  design as possible.
+long-description:
+  text: >
+    Your challenge is to build out this Clone and get it looking as close to the
+    design as possible.
 
 
-  This project focuses mostly on HTML, CSS and layouts with CSS.
+    This project focuses mostly on HTML, CSS and layouts with CSS.
 
 
-  You can use any tools you like to help you complete this project. So if you've
-  got something you'd like to practice, feel free to give it a go.
+    You can use any tools you like to help you complete this project. So if you've got something you'd like to practice, feel free to give it a go.
 
 
-  The `README.md` file will provide further details about the project. The
-  `assets` file is where you'll find colors, fonts, etc.
+    The `README.md` file will provide further details about the project. The `assets` file is where you'll find colors, fonts, etc.
 
 
-  Don't forget to share your submissions with the community to get feedback. All
-  the best.
+    Don't forget to share your submissions with the community to get feedback. All the best.
