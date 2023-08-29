@@ -9,7 +9,7 @@ level: easy
 short-description: In this project, you're supposed to work with a popular JSON
   placeholder API by proxying the response from your backend server.
 long-description:
-  text: >
+  text: |
     Your challenge is to build out the project and get it to look as close to
     the design as possible.
 

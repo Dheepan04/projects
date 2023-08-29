@@ -9,7 +9,7 @@ level: easy
 short-description: A minimal Analog as well as Digital clock design made using
   HTML5/CSS3 and JavaScript.
 long-description:
-  text: >
+  text: |
     In this challenge, you are required to construct this analog & digital clock
     and ensure it looks as close to the design as possible.
 

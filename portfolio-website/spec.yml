@@ -9,7 +9,7 @@ level: medium
 short-description: Your challenge to make a Personal portfolio Website to
   showcase your skill as shown in preview and demo using html, css, javscript.
 long-description:
-  text: >+
+  text: |
     This is a Personal Portfolio Website Project build using html, css and
     javascript.
 
@@ -36,6 +36,3 @@ long-description:
 
 
     - Building a responsive website using CSS.
-
-
-      

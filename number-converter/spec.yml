@@ -9,7 +9,7 @@ level: medium
 short-description: A Number Converter which can convert a number from any number
   system to other any number system.
 long-description:
-  text: >
+  text: |
     Your challenge is to build out this converter and get it looking as close to
     the functionalities as possible.
 

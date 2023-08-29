@@ -8,7 +8,7 @@ type: fullstack
 level: easy
 short-description: Build the complete LinkedIn application UI, API, and the Database
 long-description:
-  text: >
+  text: |
     Your challenge is to build out the LinkedIn project and get it to look as
     close to the design as possible.
 

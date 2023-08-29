@@ -8,7 +8,7 @@ type: fullstack
 level: hard
 short-description: Creating a ticket master clone using developer API
 long-description:
-  text: >
+  text: |
     Your challenge is to build out the Ticket Master app and get it to look as
     close to the design as possible.
 

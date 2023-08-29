@@ -9,7 +9,7 @@ level: easy
 short-description: Editorial/personal blog template built with HTML5 and CSS3.
   This project will test your skills in CSS and layouts.
 long-description:
-  text: >
+  text: |
     Your challenge is to build out this landing page and get it looking as close
     to the design as possible.
 

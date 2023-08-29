@@ -8,7 +8,7 @@ type: frontend
 level: medium
 short-description: Create certificates from a template
 long-description:
-  text: >
+  text: |
     Your challenge is to build out the Certificate Generator App and get it to
     look as close to the design as possible.
 

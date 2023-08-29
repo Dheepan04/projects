@@ -7,7 +7,7 @@ type: web3
 level: medium
 short-description: In this project we will organize an event using the solidity smart contract.
 long-description:
-  text: >
+  text: |
     This a event organizing project. In this project there 
 
     are two entities first the organizer and the second the attendee. The organizer will organize

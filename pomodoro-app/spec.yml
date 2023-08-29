@@ -10,7 +10,7 @@ short-description: A simple, stylish time tracking app based on the Pomodoro
   technique. You will learn about working with date and time, and about DOM
   manipulation.
 long-description:
-  text: >
+  text: |
     Your challenge is to build this interactive time tracking app and make it
     look and work as close to the original as possible.
 

@@ -10,7 +10,7 @@ short-description: A simple and minimal portfolio page for you built in HTML5 +
   CSS3. You will learn how to create a portfolio page with your social media
   icons and links.
 long-description:
-  text: >
+  text: |
     Your challenge is to build out this landing page and get it looking as close
     to the design as possible.
 

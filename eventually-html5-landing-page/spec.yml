@@ -10,7 +10,7 @@ short-description: A simple and minimal landing page built in HTML5 for a
   pre-launch to collect email addresses. You will learn about background images
   and building a deployable landing page in this project.
 long-description:
-  text: >
+  text: |
     Your challenge is to build out this landing page and get it looking as close
     to the design as possible.
 

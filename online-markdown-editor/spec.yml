@@ -11,7 +11,7 @@ short-description: Build a Online Markdown Editor with plain javascript , html &
   css where user writes the markdown in one side of the screen & sees preview on
   the other side.
 long-description:
-  text: >
+  text: |
     Your challenge is to build out this markdown editor and get it looking as
     well as functioning as close to the design as possible.
 

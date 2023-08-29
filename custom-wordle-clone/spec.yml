@@ -7,7 +7,7 @@ type: fullstack
 level: hard
 short-description: Build a custom Wordle clone. Share your own words to solve
 long-description:
-  text: >
+  text: |
     Your challenge is to build out the Wordle App and get it to look as close to
     the design as possible.
 

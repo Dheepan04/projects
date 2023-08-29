@@ -7,7 +7,7 @@ type: fullstack
 level: easy
 short-description: Make a planner application using Next.js and MongoDB
 long-description:
-  text: >
+  text: |
     Your challenge is to build out the Time Table Planner project and get it to
     look as close to the design as possible.
 

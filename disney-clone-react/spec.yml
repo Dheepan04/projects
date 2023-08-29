@@ -7,7 +7,7 @@ level: easy
 short-description: Build a frontend clone for Disney using the assets we provide
   and test your React skills
 long-description:
-  text: >+
+  text: |
     Your challenge is to build out this landing page and get it looking as close
     to the design as possible.
 
@@ -28,4 +28,3 @@ long-description:
 
 
     Don't forget to share your submissions with the community to get feedback. All the best.
-      

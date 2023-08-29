@@ -9,7 +9,7 @@ type: frontend
 level: easy
 short-description: Build a Google Keep Notes Clone using React.
 long-description:
-  text: >
+  text: |
     Your challenge is to build a clone of Google Keep Notes and get it looking
     as close to the design as possible.
 

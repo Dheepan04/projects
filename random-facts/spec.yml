@@ -9,7 +9,7 @@ level: easy
 short-description: A simple random facts generator which will test your HTML,
   CSS and JavaScript fundamentals.
 long-description:
-  text: >
+  text: |
     Your main challenge is to fetch Facts from API and render it dynamically to
     the website.
 

@@ -9,7 +9,7 @@ level: easy
 short-description: Build a frontend clone for Slack using the assets we provide
   and test your HTML, CSS and JavaScript skills
 long-description:
-  text: >
+  text: |
     Your challenge is to build out this landing page and get it looking as close
     to the design as possible.
 

@@ -12,7 +12,7 @@ level: hard
 short-description: Add visitors to your github repository's README.md file when
   a visitor creates an issue.
 long-description:
-  text: >
+  text: |
     In this project, you're supposed to build a fully functional repository
     which will add all the visitor to it's README.md file.
 

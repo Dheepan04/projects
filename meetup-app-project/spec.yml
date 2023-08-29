@@ -10,7 +10,7 @@ level: medium
 short-description: Create a social networking site that allow users to search
   and decide places for meetups based on interests
 long-description:
-  text: >
+  text: |
     Your challenge is to build out the Meetup app and get it to look as close to
     the design as possible.
 

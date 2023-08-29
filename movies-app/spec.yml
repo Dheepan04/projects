@@ -9,7 +9,7 @@ level: easy
 short-description: Movies app that fetches new movie data from API and offers
   search movies functionality.
 long-description:
-  text: >
+  text: |
     Your challenge is to build out this Movie landing page and get it looking as
     close to the design as possible.
 

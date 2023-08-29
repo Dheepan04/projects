@@ -10,7 +10,7 @@ short-description: A Quote Generator App based on an API which can generate
   quote on a click. This will test your CSS and also Javascipt Skills including
   DOM Manipulation and Working with an External API.
 long-description:
-  text: >
+  text: |
     Your challenge is to build out this Quote Generator App and get it looking
     as close to the design as possible.
 

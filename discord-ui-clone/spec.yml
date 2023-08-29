@@ -7,7 +7,7 @@ type: frontend
 level: easy
 short-description: Build a Functional Discord Clone UI with React and Tailwind CSS
 long-description:
-  text: >
+  text: |
     Your challenge is to build out the Discord Interface and get it to look as
     close to the design as possible.
 

@@ -8,7 +8,7 @@ type: frontend
 level: easy
 short-description: Using this Math Training Game you can improve your verbal calculation.
 long-description:
-  text: >
+  text: |
     Your challenge is to build out this Math Training Game and get it looking as
     close to the functionalities as possible.
 

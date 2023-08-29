@@ -10,7 +10,7 @@ level: medium
 short-description: Build a Web app to show current date time and use external
   apis to show user's location and a random quote.
 long-description:
-  text: >
+  text: |
     Your challenge is to design this page and integrate quotable api to get
     random quote and ipv6 with geo-location to get city name (Also can be done
     using HTML Geo-location API).

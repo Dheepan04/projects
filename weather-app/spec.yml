@@ -7,7 +7,7 @@ level: medium
 short-description: A simple weather app built with React that displays the
   current weather and a 7-day forecast for a given coordinates.
 long-description:
-  text: >
+  text: |
     Your challenge is to build out this Weather App and get it looking as close
     to the design as possible.
 

@@ -9,7 +9,7 @@ type: frontend
 level: medium
 short-description: A working meme generator app based on React, CSS, FetchAPI and html2canvas.
 long-description:
-  text: >
+  text: |
     In this project, you're supposed to build a fully functional essential meme
     generator website. This project includes the following features:
 

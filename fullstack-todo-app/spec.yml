@@ -7,7 +7,7 @@ type: fullstack
 level: easy
 short-description: Make a Todo application using Next.js and MongoDB
 long-description:
-  text: >
+  text: |
     Your challenge is to build out the To Do App and get it to look as close to
     the design as possible.
 

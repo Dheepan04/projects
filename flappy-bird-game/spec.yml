@@ -8,7 +8,7 @@ type: frontend
 level: easy
 short-description: A basic flappy bird game. This will test your HTML, CSS, and JavaScript skills.
 long-description:
-  text: >
+  text: |
     Your challenge is to build out the flappy bird game with all the basic
     features.
 

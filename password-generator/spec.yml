@@ -10,7 +10,7 @@ short-description: A password generator that generates password based on
   combination of controls. This will test your HTML, CSS, and JavaScript skills.
   All the designs are available inside the project.
 long-description:
-  text: >
+  text: |
     Your challenge is to build out the Password Generator App and get it look
     and function as close to the design as possible.
 

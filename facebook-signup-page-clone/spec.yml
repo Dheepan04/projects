@@ -9,7 +9,7 @@ level: easy
 short-description: A Facebook Sign up page clone project. This will test your
   HTML, CSS skills. All the designs are available inside the project.
 long-description:
-  text: >
+  text: |
     Your challenge is to build out this Sign up page and get it looking as close
     to the design as possible.
 

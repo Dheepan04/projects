@@ -7,7 +7,7 @@ type: fullstack
 level: hard
 short-description: Coding an online collaborative code editor using React and Socket.io
 long-description:
-  text: >
+  text: |
     This challenge requires you to build a collaborative code editor and make
     sure to make it look as close as possible to the designs given in the
     starter files. 

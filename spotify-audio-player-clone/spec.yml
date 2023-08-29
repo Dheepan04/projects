@@ -7,7 +7,7 @@ type: frontend
 level: medium
 short-description: Building a functional audio player with shuffle and play queue functionalities
 long-description:
-  text: >
+  text: |
     Your challenge is to build out the project and get it to look as close to
     the design as possible.
 

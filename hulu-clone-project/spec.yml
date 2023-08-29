@@ -9,7 +9,7 @@ level: easy
 short-description: Build Hulu landing page clone project to test your HTML, CSS
   and JavaScript skills.
 long-description:
-  text: >+
+  text: |
     Your challenge is to build out this landing page and get it looking as close
     to the design as possible.
 
@@ -30,5 +30,3 @@ long-description:
 
 
     Download the starter code and go through the README.md file. This will provide further details about the project. The style-guide.md file is where you'll find colors, fonts, etc.
-
-      

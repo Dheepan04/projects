@@ -9,7 +9,7 @@ level: hard
 short-description: Through this project, you will learn fundamental concepts of
   Blockchain and Web3 by making an NFT Marketplace, where users can mint NFTs.
 long-description:
-  text: >
+  text: |
     The task is to complete an ERC721 token (for NFTs) smart contract and make a
     UI to communicate with completed Smart Contract.
 

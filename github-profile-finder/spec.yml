@@ -8,7 +8,7 @@ level: medium
 short-description: Build a custom github profile finder using github username.
   It shows users details with his/her repository.
 long-description:
-  text: >
+  text: |
     Your challenge is to build out the Github Profile Finder App and get it
     looking as close to the design as possible.
 

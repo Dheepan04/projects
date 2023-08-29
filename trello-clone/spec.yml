@@ -7,7 +7,7 @@ type: frontend
 level: medium
 short-description: Create a Trello Clone with functionality to move cards between Lists
 long-description:
-  text: >
+  text: |
     Your challenge is to build out the project and get it to look as close to
     the design as possible.
 

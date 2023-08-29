@@ -9,7 +9,7 @@ level: medium
 short-description: A working meme generator page which generate memes based on
   HTML, CSS and JavaScript.
 long-description:
-  text: >
+  text: |
     In this project, you're supposed to build a meme generator page. This
     includes the following features:
 

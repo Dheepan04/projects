@@ -11,7 +11,7 @@ level: medium
 short-description: A Small Library which contains the information of galactic
   Species , Vehicles , Ships which appeared
 long-description:
-  text: >
+  text: |
     In this project, you're supposed to build a Galaxy Library. This includes
     the following features:
 

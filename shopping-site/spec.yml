@@ -8,7 +8,7 @@ type: frontend
 level: easy
 short-description: A simple landing page for a shopping website (NIKE).
 long-description:
-  text: >
+  text: |
     Your challenge is to build out the landing page for a shopping website
     (Nike) and get it look as close to the design as possible.
 
