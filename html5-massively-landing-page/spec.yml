@@ -14,12 +14,11 @@ long-description:
     - label: "Mobile Menu"
       url: "https://raw.githubusercontent.com/codedamn-projects/html5-massively-landing-page/master/designs/Menu%20%5BMobile%5D.jpg"
 
-  text: >
+  text: |
     Your task is to build out this landing page and get it looking as close to
     the design as possible. This project focuses mostly on HTML, CSS and layouts with CSS.
 
     You can use any tools you like to help you complete this project. So if you've got something you'd like to practice, feel free to give it a go.
-
 
     Your users should be able to:
 
